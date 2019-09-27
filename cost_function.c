@@ -45,11 +45,4 @@ j=(2*m)/1+ans;
 printf("Cost answer: %.2f\n",j);
 return 0; 
 }
-/* Algorithm by Mr.Dewwiman
-Programed by Mr.Kalhara
-Tester :
-*/
-/*
-this massage for the tester if you have any kind of  idea update just let me know  and  crate your GitHUb account 
-madam, we gonna rule the world  close your eyes and imagion it for a second now work for it 
-*/
+// Algorithm by Mr.Dewwiman
